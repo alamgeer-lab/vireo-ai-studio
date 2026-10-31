@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Vireo AI Studio",
+    "slug": "vireo-ai-studio",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "splash": {
+      "backgroundColor": "#090910"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#090910"
+      }
+    }
+  }
+}
